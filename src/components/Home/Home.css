@@ -1,0 +1,21 @@
+.Home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+} 
+
+.image{
+    border: 2px solid #2ec4b6;;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+.heading{
+    font-family: 'Grenze Gotisch';
+    font-size: 50px;
+    color: #0ccac4;
+    font-weight: bold;
+}
